@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muhammad Robiyuali</h1>
+<img align="center" alt="web-developer" width="100%" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdevtechnosys.com%2Finsights%2Fwp-content%2Fuploads%2F2021%2F07%2Ffull-stack-development.gif&f=1&nofb=1&ipt=685aaa984172d5869b334b26fd35acfb25895ac747151e50db0d7229e9bd9baa&ipo=images"/>
 <h3 align="center">Let me introduce myself. My name is Muhammad Robiyuali, you can call me Yuali or Gorya for my nickname from game . I am 20 years old. I entered the engineering faculty of Banjarmasin State Polytechnic. Although I am a high school graduate majoring in science with no IT experience, I am determined to outperform them because I believe that nothing is impossible.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=msadhimb&label=Profile%20views&color=0e75b6&style=flat" alt="msadhimb" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=msadhimb&label=Profile%20views&color=0e75b6&style=flat" alt="yuali28" /> </p>
 
 - 🔭 I’m currently working on **Helpdesk APS**
 
